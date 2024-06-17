@@ -11,3 +11,12 @@ fastapi==0.109.2
 pyyaml==6.0.1
 
 websockets==12.0
+
+vital-agent-template>=0.1.0
+
+kgraphservice>=0.0.6
+kgraphmemory>=0.0.5
+vital-ai-haley-kg>=0.1.4
+
+
+
