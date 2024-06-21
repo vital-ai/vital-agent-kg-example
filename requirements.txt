@@ -17,6 +17,8 @@ vital-agent-template>=0.1.0
 kgraphservice>=0.0.6
 kgraphmemory>=0.0.5
 vital-ai-haley-kg>=0.1.4
+kgraphagent>=0.0.1
+
 
 
 
